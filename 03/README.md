@@ -5,7 +5,6 @@
 
 [intro.ipynb](intro.ipynb)
 
-[exercises.ipynb](exercises.ipynb)
 
 
 
