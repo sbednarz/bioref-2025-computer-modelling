@@ -1,5 +1,3 @@
-# Computer modelling in chemical technology 2025
-
 ## Mass balance on reactive system
 
 
